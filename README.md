@@ -112,12 +112,13 @@ AiVis/
 *   **Attendance Scanner Output**:
     <img width="802" height="640" alt="image" src="https://github.com/user-attachments/assets/816963a3-3aef-4c73-9331-aacb29ad33d5" />
 
+## Conclusion:
+*   AiVis successfully automates attendance using face recognition.
+*   The project demonstrates practical application of computer vision and ML.
+*   It reduces manual effort and improves attendance accuracy.
+*   The system meets all defined objectives and serves as a strong academic mini project.
 
 ### Clone the Repository
 ```bash
 git clone https://github.com/your-username/AiVis.git
 cd AiVis
-
-
-## 📜 License
-This project is open-source and available under the MIT License.
