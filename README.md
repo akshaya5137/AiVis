@@ -49,7 +49,6 @@ AiVis/
 *   **UI Framework**: Tkinter (`ttk` themed widgets)
 *   **Data Processing**: Numpy, CSV
 
-## 🚀 Installation
 
 1.  **Clone the Repository**
     ```bash
@@ -61,6 +60,13 @@ AiVis/
     ```bash
     pip install opencv-contrib-python numpy
     ```
+
+## Usage Instructions
+*   Click Register User to add a new user
+*   Click Train Model after registering users
+*   Click Start Camera to begin attendance
+*   Press Q to stop the camera feed
+*   Use Reset Session to clear current attendance
 
 ## 💻 Usage
 
@@ -94,15 +100,17 @@ AiVis/
 
 
 ## 📸 Screenshots
-*   **Homepage**:
+*   **Dashboard**:
     <img width="1377" height="915" alt="image" src="https://github.com/user-attachments/assets/5a3fc1d1-f983-45b3-bb6e-78c567c6448c" />
 
-*   **Manage Users**:
-    <img width="1377" height="915" alt="image" src="https://github.com/user-attachments/assets/f1729cd1-b41f-43d8-9394-e7a4cc862bbe" />
+*   **User Management Page**:
+    <img width="1377" height="915" alt="image" src="https://github.com/user-attachments/assets/6dfdbeef-39be-4cb5-a971-782610316851" />
 
-*   **Start Camera**:
-    <img width="1369" height="907" alt="image" src="https://github.com/user-attachments/assets/81aab092-dc3c-4368-818d-3dfaaa492496" />
+*   **Training - Face Recognition Window**:
+    <img width="1600" height="835" alt="image" src="https://github.com/user-attachments/assets/13023b25-5e32-48c7-ba12-f2736ee1b893" />
 
+*   **Attendance Scanner Output**:
+    <img width="802" height="640" alt="image" src="https://github.com/user-attachments/assets/816963a3-3aef-4c73-9331-aacb29ad33d5" />
 
 
 ### Clone the Repository
@@ -113,4 +121,3 @@ cd AiVis
 
 ## 📜 License
 This project is open-source and available under the MIT License.
-
